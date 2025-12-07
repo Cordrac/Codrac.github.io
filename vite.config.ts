@@ -3,7 +3,7 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  base: '/codrac.github.io/', 
+  base: '/Codrac.github.io/', 
   server: {
     port: 3000,
     host: '0.0.0.0',
